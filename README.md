@@ -1,44 +1,49 @@
-# Bruno Sampaio
-
 ## Sobre Mim
-Profissional de Tecnologia da Informação com mais de 20 anos de experiência em desenvolvimento de soluções inovadoras para Contact Centers e atendimento ao cliente. Ao longo da minha carreira, atuei em empresas de grande porte, como Avaya e Wittel Comunicações, onde contribuí com minha expertise em URAs, integração de sistemas e automação de processos.
 
-Apaixonado por tecnologia e inovação, minha experiência abrange desde o desenvolvimento técnico até a consultoria e suporte, sempre com foco na eficiência operacional e na melhoria da experiência do usuário. Além disso, sou versátil em várias tecnologias e plataformas, incluindo:
+👋 Olá! Sou **Bruno Sampaio**, profissional de Tecnologia da Informação com mais de 20 anos de experiência em desenvolvimento de soluções inovadoras para Contact Centers e atendimento ao cliente. Ao longo da minha carreira, atuei em empresas de grande porte, como Avaya e Wittel Comunicações, onde contribui com minha expertise em URAs, integração de sistemas e automação de processos.
 
-- **Integração de URAs e desenvolvimento de chatbots** para proporcionar atendimentos mais dinâmicos e personalizados.
-- **Criação de APIs e desenvolvimento full stack** com foco em JavaScript e Node.js.
-- **Implementação de relatórios e dashboards gerenciais** para oferecer insights estratégicos e suporte à tomada de decisão.
-- **Treinamento e passagem de conhecimento técnico** para equipes internas, garantindo o uso otimizado de ferramentas como WebReport, Survey Assist, entre outras.
+🌆 **Localização:** São Paulo, Brasil  
+📈 **Experiência:** Desenvolvimento de projetos técnicos, consultoria em plataformas de autoatendimento, otimização de processos.
+
+Apaixonado por tecnologia e inovação, minha experiência abrange desde o desenvolvimento técnico até a consultoria e suporte, sempre com foco na eficiência operacional e na melhoria da experiência do usuário. 
+
+---
 
 ## Principais Habilidades
+
 - **Desenvolvimento Full Stack**: Domínio de JavaScript, Node.js e integração com APIs de IA, incluindo OpenAI e Gemini.
 - **Soluções para Contact Center**: Consultoria e implementação de URAs, análise de callflows e projetos de integração com chatbots.
 - **Análise de Negócios e Suporte Técnico**: Abordagem prática e consultiva para otimização de processos e resolução de problemas.
 - **Automação e Eficiência Operacional**: Criação de componentes personalizados e sistemas que ampliam a produtividade e a experiência do usuário.
 
-## Contato
+---
+
+## 💻 Tecnologias e Ferramentas
+
+- **Linguagens:**
+  - JavaScript ![JavaScript Icon](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+  - HTML ![HTML Icon](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+  - CSS ![CSS Icon](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+  - Node.js ![Node.js Icon](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+
+- **Plataformas e Integrações:**
+  - Google Cloud Platform (GCP) ![GCP Icon](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+  - OpenAI ![OpenAI Icon](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+  - Avaya ![Avaya Icon](https://img.shields.io/badge/Avaya-FF0000?style=for-the-badge&logo=avaya&logoColor=white)
+
+- **Análise e Relatórios:**
+  - **Dashboards** e relatórios gerenciais 📈
+  - **Survey Assist** e **WebReport** 📋
+
+- **Integrações e APIs:**
+  - APIs para URA e Chatbot 🔗
+  - **DialogFlow** para integração de IA 🤖
+
+---
+
+## 📫 Contato
+
 Gostaria de conhecer melhor meus projetos? Entre em contato comigo ou acompanhe minhas atualizações no LinkedIn.
 
-- LinkedIn: [linkedin.com/in/brunosampaioconsultorura/](https://www.linkedin.com/in/brunosampaioconsultorura/)
-- E-mail: brunotms@gmail.com ou brunosampaiodev@gmail.com
-
-
-
-
-
-
-
-<!--
-**brunotms/brunotms** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- LinkedIn: [Bruno Sampaio](https://www.linkedin.com/in/brunosampaioconsultorura/)
+- 📧 [brunotms@gmail.com](mailto:brunotms@gmail.com)
