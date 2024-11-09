@@ -60,7 +60,6 @@ Gostaria de conhecer melhor meus projetos? Entre em contato comigo ou acompanhe 
 
 
 testes:
-![Gráfico de Contribuições](https://github-readme-activity-graph.cyclic.app/graph?username=brunotms&theme=github)
 ![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=brunotms&layout=compact&theme=radical)
 ![Commits por Ano](https://github-readme-stats.vercel.app/api/commit/week?username=brunotms&theme=radical)
 ![Contribuições](https://img.shields.io/badge/Contribuições%20Open%20Source-YES-brightgreen)
