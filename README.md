@@ -50,8 +50,7 @@ Apaixonado por tecnologia e inovação, minha experiência abrange desde o desen
 
 Gostaria de conhecer melhor meus projetos? Entre em contato comigo ou acompanhe minhas atualizações no LinkedIn.
 
-- LinkedIn: [Bruno Sampaio](https://www.linkedin.com/in/brunosampaioconsultorura/)
-- 🦸‍♂️ [LinkedIn](https://www.linkedin.com/in/brunosampaioconsultorura/)
+- 🦸‍♂️ LinkedIn: [Bruno Sampaio](https://www.linkedin.com/in/brunosampaioconsultorura/)
 - 📧 [brunotms@gmail.com](mailto:brunotms@gmail.com)
 
 ## Estatísticas GitHub
