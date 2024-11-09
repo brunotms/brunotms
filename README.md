@@ -57,3 +57,18 @@ Gostaria de conhecer melhor meus projetos? Entre em contato comigo ou acompanhe 
 ![Atividade no GitHub](https://github-readme-streak-stats.herokuapp.com/?user=brunotms)
 ![Estatísticas do GitHub de Bruno Sampaio](https://github-readme-stats.vercel.app/api?username=brunotms&show_icons=true&theme=radical)
 
+
+
+testes:
+![Gráfico de Contribuições](https://github-readme-activity-graph.cyclic.app/graph?username=brunotms&theme=github)
+![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=brunotms&layout=compact&theme=radical)
+![Commits por Ano](https://github-readme-stats.vercel.app/api/commit/week?username=brunotms&theme=radical)
+![Contribuições](https://img.shields.io/badge/Contribuições%20Open%20Source-YES-brightgreen)
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=brunotms&show_icons=true&theme=radical)
+![Pull Requests](https://img.shields.io/github/issues-pr/brunotms)
+![Stars](https://img.shields.io/github/stars/brunotms?style=flat-square&logo=github&label=stars)
+![Seguidores](https://img.shields.io/github/followers/brunotms?style=flat-square&logo=github&label=seguidores)
+![Contribuições GitHub](https://github-readme-streak-stats.herokuapp.com/?user=brunotms)
+
+
+
