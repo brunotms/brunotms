@@ -40,7 +40,7 @@ Apaixonado por tecnologia e inovação, minha experiência abrange desde o desen
   - **Dashboards** e relatórios gerenciais 📈
   - **Survey Assist** e **WebReport** 📋
 
-- **Integrações e APIs:**  
+- **Integrações e APIs:**
   - APIs para URA e Chatbot 🔗
   - **DialogFlow** para integração de IA 🤖
 
