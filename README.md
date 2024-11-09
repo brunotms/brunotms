@@ -54,6 +54,6 @@ Gostaria de conhecer melhor meus projetos? Entre em contato comigo ou acompanhe 
 - 📧 [brunotms@gmail.com](mailto:brunotms@gmail.com)
 
 ## Estatísticas GitHub
-![Atividade no GitHub](https://github-readme-streak-stats.herokuapp.com/?user=brunosampaioconsultorura)
-![Estatísticas do GitHub de Bruno Sampaio](https://github-readme-stats.vercel.app/api?username=brunosampaioconsultorura&show_icons=true&theme=radical)
+![Atividade no GitHub](https://github-readme-streak-stats.herokuapp.com/?user=brunotms)
+![Estatísticas do GitHub de Bruno Sampaio](https://github-readme-stats.vercel.app/api?username=brunotms&show_icons=true&theme=radical)
 
