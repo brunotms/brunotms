@@ -21,15 +21,15 @@ Apaixonado por tecnologia e inovação, minha experiência abrange desde o desen
 ## 💻 Tecnologias e Ferramentas
 
 - **Linguagens:**
-  - JavaScript ![JavaScript Icon](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-  - HTML ![HTML Icon](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-  - CSS ![CSS Icon](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-  - Node.js ![Node.js Icon](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+  ![JavaScript Icon](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+  ![HTML Icon](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+  ![CSS Icon](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+  ![Node.js Icon](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 
 - **Plataformas e Integrações:**
-  - Google Cloud Platform (GCP) ![GCP Icon](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
-  - OpenAI ![OpenAI Icon](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
-  - Avaya ![Avaya Icon](https://img.shields.io/badge/Avaya-FF0000?style=for-the-badge&logo=avaya&logoColor=white)
+  ![GCP Icon](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+  ![OpenAI Icon](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+  ![Avaya Icon](https://img.shields.io/badge/Avaya-FF0000?style=for-the-badge&logo=avaya&logoColor=white)
 
 - **Análise e Relatórios:**
   - **Dashboards** e relatórios gerenciais 📈
