@@ -40,9 +40,19 @@ Apaixonado por tecnologia e inovação, minha experiência abrange desde o desen
   - **Dashboards** e relatórios gerenciais 📈
   - **Survey Assist** e **WebReport** 📋
 
-- **Integrações e APIs:**
+- **Integrações e APIs:**  
   - APIs para URA e Chatbot 🔗
   - **DialogFlow** para integração de IA 🤖
+
+---
+
+## Estatísticas GitHub
+
+Aqui estão algumas estatísticas sobre meu perfil e atividade no GitHub:
+
+| 📊 **Top Linguagens**         | 🔥 **Atividade no GitHub**         | 📈 **Estatísticas Gerais** |
+|-------------------------------|------------------------------------|----------------------------|
+| ![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=brunotms&layout=compact&theme=radical) | ![Atividade no GitHub](https://github-readme-streak-stats.herokuapp.com/?user=brunotms) | ![Estatísticas do GitHub de Bruno Sampaio](https://github-readme-stats.vercel.app/api?username=brunotms&show_icons=true&theme=radical) |
 
 ---
 
@@ -53,10 +63,3 @@ Gostaria de conhecer melhor meus projetos? Entre em contato comigo ou acompanhe 
 - 🦸‍♂️ LinkedIn: [Bruno Sampaio](https://www.linkedin.com/in/brunosampaioconsultorura/)
 - 📧 [brunotms@gmail.com](mailto:brunotms@gmail.com)
 
-## Estatísticas GitHub
-
-Aqui estão algumas estatísticas sobre meu perfil e atividade no GitHub:
-
-| 📊 **Top Linguagens**         | 🔥 **Atividade no GitHub**         | 📈 **Estatísticas Gerais** |
-|-------------------------------|------------------------------------|----------------------------|
-| ![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=brunotms&layout=compact&theme=radical) | ![Atividade no GitHub](https://github-readme-streak-stats.herokuapp.com/?user=brunotms) | ![Estatísticas do GitHub de Bruno Sampaio](https://github-readme-stats.vercel.app/api?username=brunotms&show_icons=true&theme=radical) |
