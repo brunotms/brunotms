@@ -54,48 +54,9 @@ Gostaria de conhecer melhor meus projetos? Entre em contato comigo ou acompanhe 
 - 📧 [brunotms@gmail.com](mailto:brunotms@gmail.com)
 
 ## Estatísticas GitHub
-![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=brunotms&layout=compact&theme=radical)
-![Atividade no GitHub](https://github-readme-streak-stats.herokuapp.com/?user=brunotms)
-![Estatísticas do GitHub de Bruno Sampaio](https://github-readme-stats.vercel.app/api?username=brunotms&show_icons=true&theme=radical)
-
-
-
-testes:  
-
-## Estatísticas do GitHub
 
 Aqui estão algumas estatísticas sobre meu perfil e atividade no GitHub:
 
 | 📊 **Top Linguagens**         | 🔥 **Atividade no GitHub**         | 📈 **Estatísticas Gerais** |
 |-------------------------------|------------------------------------|----------------------------|
 | ![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=brunotms&layout=compact&theme=radical) | ![Atividade no GitHub](https://github-readme-streak-stats.herokuapp.com/?user=brunotms) | ![Estatísticas do GitHub de Bruno Sampaio](https://github-readme-stats.vercel.app/api?username=brunotms&show_icons=true&theme=radical) |
-
-
-
-
-
-
-    
-    ## Estatísticas do GitHub
-
-Aqui você pode ver algumas das minhas principais estatísticas no GitHub:
-
-### 📊 **Top Linguagens**
-Exibe as linguagens que mais uso nos meus repositórios.
-
-![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=brunotms&layout=compact&theme=radical)
-
-### 🔥 **Atividade no GitHub**
-Aqui estão minhas contribuições diárias. A intensidade das cores indica a quantidade de commits feitos.
-
-![Atividade no GitHub](https://github-readme-streak-stats.herokuapp.com/?user=brunotms)
-
-### 📈 **Estatísticas Gerais do GitHub**
-Estatísticas gerais sobre meu perfil no GitHub, incluindo o número de repositórios, seguidores e a quantidade de contribuições.
-
-![Estatísticas do GitHub de Bruno Sampaio](https://github-readme-stats.vercel.app/api?username=brunotms&show_icons=true&theme=radical)
-
-
-
-
-
