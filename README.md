@@ -26,17 +26,17 @@ Apaixonado por tecnologia e inovação, minha experiência abrange desde o desen
   ![CSS Icon](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
   ![Node.js Icon](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 
-- **Plataformas e Integrações:**
+- **Plataformas e Integrações:**  
   ![GCP Icon](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
   ![Azure Icon](https://img.shields.io/badge/Microsoft_Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
   ![OpenAI Icon](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
   ![Avaya Icon](https://img.shields.io/badge/Avaya-FF0000?style=for-the-badge&logo=avaya&logoColor=white)
 
-- **Análise e Relatórios:**
+- **Análise e Relatórios:**  
   - **Dashboards** e relatórios gerenciais 📈
   - **Survey Assist** e **WebReport** 📋
 
-- **Integrações e APIs:**
+- **Integrações e APIs:**  
   - APIs para URA e Chatbot 🔗
   - **DialogFlow** para integração de IA 🤖
 
